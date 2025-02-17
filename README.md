@@ -17,7 +17,7 @@ This is a simple Flask-based URL shortener application. It allows users to input
 
 ### **1. Fork the Repository**
 Before cloning the repository, you need to fork it to your own GitHub account:
-1. Go to the repository: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name).
+1. Go to the repository: [https://github.com/debasmi/url_shortener](https://github.com/debasmi/url_shortener).
 2. Click the **Fork** button in the top-right corner of the page.
 3. This will create a copy of the repository under your GitHub account.
 
