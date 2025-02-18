@@ -1,7 +1,7 @@
 
 # URL Shortener Application
 
-## **[Site is live here](https://debasmi.pythonanywhere.com).**
+## **Site is live [here](https://debasmi.pythonanywhere.com).**
 
 
 This is a simple Flask-based URL shortener application. It allows users to input a long URL and generates a shortened version for easy sharing.
