@@ -122,7 +122,7 @@ If you encounter any issues or have questions, please open an issue in the repos
 
 <img width="888" alt="Screenshot 2025-02-18 at 1 09 05 AM" src="https://github.com/user-attachments/assets/47ea8a35-a62d-4125-9422-e1b82fdd4ce1" />
 <img width="888" alt="Screenshot 2025-02-18 at 1 11 56 AM" src="https://github.com/user-attachments/assets/88e167b8-cc23-4e2b-835d-e2d8f42b4f5e" />
-<img width="1151" alt="Screenshot 2025-02-18 at 11 41 46 AM" src="https://github.com/user-attachments/assets/e0870928-ceef-4fb5-90e5-5a8830cc1824" />
+<img width="888" alt="Screenshot 2025-02-18 at 11 41 46 AM" src="https://github.com/user-attachments/assets/e0870928-ceef-4fb5-90e5-5a8830cc1824" />
 
 
 
