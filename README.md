@@ -4,6 +4,8 @@
 ## **Site is live [here](https://debasmi.pythonanywhere.com).**
 
 
+### **To run locally on your machine follow the steps given below:**
+
 This is a simple Flask-based URL shortener application. It allows users to input a long URL and generates a shortened version for easy sharing.
 
 ---
