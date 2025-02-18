@@ -119,3 +119,7 @@ If you encounter any issues or have questions, please open an issue in the repos
 <img width="888" alt="Screenshot 2025-02-18 at 1 11 56 AM" src="https://github.com/user-attachments/assets/88e167b8-cc23-4e2b-835d-e2d8f42b4f5e" />
 <img width="888" alt="Screenshot 2025-02-18 at 1 12 08 AM" src="https://github.com/user-attachments/assets/822a8bb3-789e-478e-b680-ce904105eb7b" />
 
+
+
+Site is live at :[https://debasmi.pythonanywhere.com](https://debasmi.pythonanywhere.com).
+
